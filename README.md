@@ -4,7 +4,8 @@ This package contains the analysis and plotting code for the Visual Anagram Neur
 
 **Preprint**
 
-[Neural Representations of Visual Anagrams in Macaque Inferotemporal Cortex](https://www.biorxiv.org/content/10.64898/2026.10.05.755559v1)
+[Neural Representations of Visual Anagrams in Macaque Inferotemporal Cortex](https://www.biorxiv.org/content/10.64898/2026.10.05.755559v1) 
+
 
 **Data availability**
 
@@ -52,7 +53,3 @@ Run the scripts in each row in order from the package root. Choose the rows for 
 | Figure 3 population analysis | `F3_Population` |
 | Figure 4 decoding | `S4_decode_cv_L2`, `F4_Decode` |
 | Figure 5 Model comparison | `Figure6_Neural_Pooled_Decoding`, `Figure6_Calculate`, `Figure6_Plot` |
-
-## License and code availability
-
-Contact the corresponding author for the project license and repository access. Third-party helpers retain the license terms in their source files and accompanying notices.
